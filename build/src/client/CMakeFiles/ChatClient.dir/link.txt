@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -g -rdynamic CMakeFiles/ChatClient.dir/main.cpp.o -o /root/CPlusPlusProject/muduo集群聊天/chatserver-master/bin/ChatClient   -L/usr/lib64/mysql  -Wl,-rpath,/usr/lib64/mysql -lpthread 

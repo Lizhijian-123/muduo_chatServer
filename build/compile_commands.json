@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/root/CPlusPlusProject/muduo集群聊天/chatserver-master/build/src/server",
+  "command": "/usr/bin/g++  -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server/db -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server/model -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server/redis -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/thirdparty -g -g -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /root/CPlusPlusProject/muduo集群聊天/chatserver-master/src/server/chatserver.cpp",
+  "file": "/root/CPlusPlusProject/muduo集群聊天/chatserver-master/src/server/chatserver.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/chatserver.cpp.o"
+},
+{
+  "directory": "/root/CPlusPlusProject/muduo集群聊天/chatserver-master/build/src/server",
+  "command": "/usr/bin/g++  -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server/db -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server/model -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server/redis -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/thirdparty -g -g -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /root/CPlusPlusProject/muduo集群聊天/chatserver-master/src/server/chatservice.cpp",
+  "file": "/root/CPlusPlusProject/muduo集群聊天/chatserver-master/src/server/chatservice.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o"
+},
+{
+  "directory": "/root/CPlusPlusProject/muduo集群聊天/chatserver-master/build/src/server",
+  "command": "/usr/bin/g++  -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server/db -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server/model -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server/redis -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/thirdparty -g -g -o CMakeFiles/ChatServer.dir/main.cpp.o -c /root/CPlusPlusProject/muduo集群聊天/chatserver-master/src/server/main.cpp",
+  "file": "/root/CPlusPlusProject/muduo集群聊天/chatserver-master/src/server/main.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/main.cpp.o"
+},
+{
+  "directory": "/root/CPlusPlusProject/muduo集群聊天/chatserver-master/build/src/server",
+  "command": "/usr/bin/g++  -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server/db -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server/model -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server/redis -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/thirdparty -g -g -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /root/CPlusPlusProject/muduo集群聊天/chatserver-master/src/server/db/db.cpp",
+  "file": "/root/CPlusPlusProject/muduo集群聊天/chatserver-master/src/server/db/db.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/db/db.cpp.o"
+},
+{
+  "directory": "/root/CPlusPlusProject/muduo集群聊天/chatserver-master/build/src/server",
+  "command": "/usr/bin/g++  -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server/db -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server/model -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server/redis -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/thirdparty -g -g -o CMakeFiles/ChatServer.dir/model/friendmoel.cpp.o -c /root/CPlusPlusProject/muduo集群聊天/chatserver-master/src/server/model/friendmoel.cpp",
+  "file": "/root/CPlusPlusProject/muduo集群聊天/chatserver-master/src/server/model/friendmoel.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/model/friendmoel.cpp.o"
+},
+{
+  "directory": "/root/CPlusPlusProject/muduo集群聊天/chatserver-master/build/src/server",
+  "command": "/usr/bin/g++  -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server/db -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server/model -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server/redis -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/thirdparty -g -g -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /root/CPlusPlusProject/muduo集群聊天/chatserver-master/src/server/model/groupmodel.cpp",
+  "file": "/root/CPlusPlusProject/muduo集群聊天/chatserver-master/src/server/model/groupmodel.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o"
+},
+{
+  "directory": "/root/CPlusPlusProject/muduo集群聊天/chatserver-master/build/src/server",
+  "command": "/usr/bin/g++  -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server/db -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server/model -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server/redis -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/thirdparty -g -g -o CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /root/CPlusPlusProject/muduo集群聊天/chatserver-master/src/server/model/offlinemessagemodel.cpp",
+  "file": "/root/CPlusPlusProject/muduo集群聊天/chatserver-master/src/server/model/offlinemessagemodel.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o"
+},
+{
+  "directory": "/root/CPlusPlusProject/muduo集群聊天/chatserver-master/build/src/server",
+  "command": "/usr/bin/g++  -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server/db -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server/model -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server/redis -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/thirdparty -g -g -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /root/CPlusPlusProject/muduo集群聊天/chatserver-master/src/server/model/usermodel.cpp",
+  "file": "/root/CPlusPlusProject/muduo集群聊天/chatserver-master/src/server/model/usermodel.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.o"
+},
+{
+  "directory": "/root/CPlusPlusProject/muduo集群聊天/chatserver-master/build/src/server",
+  "command": "/usr/bin/g++  -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server/db -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server/model -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server/redis -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/thirdparty -g -g -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /root/CPlusPlusProject/muduo集群聊天/chatserver-master/src/server/redis/redis.cpp",
+  "file": "/root/CPlusPlusProject/muduo集群聊天/chatserver-master/src/server/redis/redis.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/redis/redis.cpp.o"
+},
+{
+  "directory": "/root/CPlusPlusProject/muduo集群聊天/chatserver-master/build/src/client",
+  "command": "/usr/bin/g++  -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server/db -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server/model -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/include/server/redis -I/root/CPlusPlusProject/muduo集群聊天/chatserver-master/thirdparty -g -g -o CMakeFiles/ChatClient.dir/main.cpp.o -c /root/CPlusPlusProject/muduo集群聊天/chatserver-master/src/client/main.cpp",
+  "file": "/root/CPlusPlusProject/muduo集群聊天/chatserver-master/src/client/main.cpp",
+  "output": "src/client/CMakeFiles/ChatClient.dir/main.cpp.o"
+}
+]
