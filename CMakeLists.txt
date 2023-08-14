@@ -1,4 +1,5 @@
 cmake_minimum_required(VERSION 3.0)
+
 project(chat)
 
 # 配置编译选项
